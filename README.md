@@ -2,6 +2,9 @@
 
 ### 1. Program usage
 
+python version: python 2, 3
+package installation: cv2, numpy, matplotlib
+
 ```
 python box_detection.py <input_dir> <output_dir>
 ```
